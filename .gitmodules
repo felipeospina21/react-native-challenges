@@ -1,3 +1,6 @@
 [submodule "react-native-challenge"]
 	path = react-native-challenge
 	url = https://github.com/felipeospina21/react-native-challenge.git
+[submodule "react-native-challenge-nov"]
+	path = react-native-challenge-nov
+	url = https://github.com/felipeospina21/react-native-challenge-nov.git
